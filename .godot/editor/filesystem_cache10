@@ -1,0 +1,12 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1791039725
+alvo.gd::GDScript::8305459765772345277::1791039722::0::1::::<>Area2D<><>0<>0<><>::
+alvo.tscn::PackedScene::7798343862498144762::1791039722::0::1::::<><><>0<>0<><>::uid://dqlhydqt2m630::::res://alvo.gd<>uid://b2ly5flqhoh7u::::res://tilemap_packed.png
+icon.svg::CompressedTexture2D::915555692612502016::1791039722::1791039722::1::::<><><>0<>0<>aabee44c95b0dfac410875f7f7f78440<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+jogo.tscn::PackedScene::3390910468971504469::1791039722::0::1::::<><><>0<>0<><>::uid://b2ly5flqhoh7u::::res://tilemap_packed.png<>uid://cuhf4jqxkf2e2::::res://player.tscn<>uid://djdtt4gaqgo15::::res://alvo.tscn
+player.gd::GDScript::1596399890939267419::1791039722::0::1::::<>CharacterBody2D<><>0<>0<><>::
+player.tscn::PackedScene::6191424755897970487::1791039722::0::1::::<><><>0<>0<><>::uid://w0kqc0qukru6::::res://player.gd<>uid://b2ly5flqhoh7u::::res://tilemap_packed.png
+tilemap_packed.png::CompressedTexture2D::4305738679204654864::1791039722::1791039722::1::::<><><>0<>0<>a2e970912d77f35f7970db0e48e89ce2<>res://.godot/imported/tilemap_packed.png-7b301e6705a57389d2cd02d385b33920.ctex::
+::res://arte/::1791039722
+::res://Mapa-e-camera-main/::1791039722
+README.md::TextFile::-1::1791039722::0::1::::<><><>0<>0<><>::
